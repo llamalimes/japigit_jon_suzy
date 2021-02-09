@@ -1,0 +1,86 @@
+Stock symbol: {
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "136.0300",
+        "03. high": "136.9600",
+        "04. low": "134.9200",
+        "05. price": "136.9100",
+        "06. volume": "66540106",
+        "07. latest trading day": "2021-02-08",
+        "08. previous close": "136.7600",
+        "09. change": "0.1500",
+        "10. change percent": "0.1097%"
+    }
+}
+
+The current price of AAPL is: 136.9100 
+
+Stock symbol: {
+    "Global Quote": {
+        "01. symbol": "GME",
+        "02. open": "72.4100",
+        "03. high": "72.6600",
+        "04. low": "58.0200",
+        "05. price": "60.0000",
+        "06. volume": "23522919",
+        "07. latest trading day": "2021-02-08",
+        "08. previous close": "63.7700",
+        "09. change": "-3.7700",
+        "10. change percent": "-5.9119%"
+    }
+}
+
+The current price of GME is: 60.0000 
+
+Stock symbol: {
+    "Global Quote": {
+        "01. symbol": "AMC",
+        "02. open": "6.8800",
+        "03. high": "6.8900",
+        "04. low": "5.7500",
+        "05. price": "6.1800",
+        "06. volume": "122864155",
+        "07. latest trading day": "2021-02-08",
+        "08. previous close": "6.8300",
+        "09. change": "-0.6500",
+        "10. change percent": "-9.5168%"
+    }
+}
+
+The current price of AMC is: 6.1800 
+
+Stock symbol: {
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3358.5000",
+        "03. high": "3364.9999",
+        "04. low": "3304.0000",
+        "05. price": "3322.9400",
+        "06. volume": "3101965",
+        "07. latest trading day": "2021-02-08",
+        "08. previous close": "3352.1500",
+        "09. change": "-29.2100",
+        "10. change percent": "-0.8714%"
+    }
+}
+
+The current price of AMZN is: 3322.9400 
+
+Stock symbol: {
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "869.6700",
+        "03. high": "877.7700",
+        "04. low": "854.7500",
+        "05. price": "863.4200",
+        "06. volume": "18175514",
+        "07. latest trading day": "2021-02-08",
+        "08. previous close": "852.2300",
+        "09. change": "11.1900",
+        "10. change percent": "1.3130%"
+    }
+}
+
+The current price of TSLA is: 863.4200 
+
+Stock symbol: 
