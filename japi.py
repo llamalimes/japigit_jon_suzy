@@ -37,7 +37,7 @@ def main():
 
         #print price
         print("\nThe current price of",symbol,"is:",dictionary["05. price"],'\n')
-
+    print("Stock Quotes retrieved successfully!")
 
 if __name__ == "__main__":
    main()
